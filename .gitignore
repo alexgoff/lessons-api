@@ -5,3 +5,4 @@ firebase.json
 firebase-debug.log
 .firebase
 %RESOURCE_DIR%
+*.code-workspace
